@@ -72,7 +72,7 @@ function openGift() {
         <h1>FELIZ CUMPLEAÑOS MI RENA</h1>
         <h8>Con mucho amor, atentamente tu NOVIECITO</h8>
       </div>
-      <img src="mamor.png" alt="bebitos">
+      <img src="mamor.jpg" alt="bebitos">
       <canvas id="my-canvas"></canvas>
       <script src="https://cdn.jsdelivr.net/npm/confetti-js@0.0.18/dist/index.min.js"></script>
       <script>
